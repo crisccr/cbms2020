@@ -12,7 +12,7 @@ Full Text, BibText (soon)
 ### Online Experiments
 ##### Run our experiments online with Binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/laura-health/cbms2020/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/laura-health/cbms2020/blob/master/colab_experiments.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laura-health/cbms2020/blob/master/colab_experiments.ipynb)
 
 ### Data Share
 A publicly available sample of one of the biggest Cancer Hospitals in southern Brazil with 13,652 attendances previously approved by the Erasto Gaertner Hospital Research Ethics Committee - n 99706718.9.0000.0098
